@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 About Me  <br><br>Hi, I'm **Mundru Vedavedya Ram** — an aspiring **Data Analyst** and final-year B.Tech CSE student at Anurag University.  <br>I enjoy transforming raw data into meaningful insights using data analytics and visualization tools.  <br>Passionate about solving real-world business problems through dashboards, analytics, and data-driven decision-making.<br><br>🌱 Currently learning: Advanced Power BI, SQL Optimization, and Machine Learning basics  <br>💻 Working on: Supply Chain Analytics & Data Analytics Projects  <br>📊 Skilled in: Python, SQL, Excel, Power BI, Tableau  <br>🚀 Interested in: Data Analytics, Business Intelligence, and AI-powered solutions  <br>🤝 Looking to collaborate on: Data Analytics & Dashboard Projects  <br>📫 Reach me at: **mundruvedavedyaram@gmail.com**  <br>⚡ Fun fact: I enjoy finding hidden insights in data and turning them into visual stories!  <br><br>---<br><br>### 🛠️ Tech Stack  <br>- **Languages:** Python, SQL  <br>- **Libraries:** Pandas, NumPy, Scikit-learn  <br>- **Visualization:** Power BI, Tableau, Excel  <br>- **Databases:** MySQL, MongoDB  <br>- **Tools:** Git, VS Code, Jupyter Notebook  <br><br>---<br><br>### 📌 Featured Projects  <br>📦 **Supply Chain Performance & Sales Analytics Dashboard**  <br>- Built an interactive dashboard using SQL, Python, and Power BI  <br>- Analyzed sales, delivery performance, profitability, and KPIs  <br><br>🛒 **E-Commerce Product Performance Analytics**  <br>- Performed customer behavior and sales trend analysis  <br>- Created KPI dashboards using Tableau and Excel  <br><br>🤖 **Smart LogAI – AI-Based IT Incident Analysis System**  <br>- Processed 50,000+ log records using NLP & EDA techniques  <br>- Improved anomaly detection and incident analysis  <br><br>---<br><br>### 🏆 Certifications  <br>- Microsoft Certified: Power BI Data Analyst Associate  <br>- HackerRank: Python, SQL, Power BI, Advanced Excel  <br>- Infosys Springboard: Python, AI & SQL Certifications  
 
-<!--
-**vedavedyaram/vedavedyaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mvvram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mundruvedavedyaram@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vedavedyaram&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vedavedyaram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedavedyaram&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vedavedyaram&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
