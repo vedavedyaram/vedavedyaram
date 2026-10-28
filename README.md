@@ -28,6 +28,20 @@ I enjoy transforming raw data into meaningful insights using analytics, visualiz
 
 ## 📌 Featured Projects
 
+### 🎬 IMDb Movie Sales Analysis Dashboard | Power BI
+- Developed an interactive dashboard using Microsoft Power BI to analyze IMDb movie data.
+- Explored movie ratings, genres, revenue, and audience voting patterns.
+- Analyzed top-performing movies and directors based on available metrics.
+- Investigated relationships between ratings, runtime, votes, and box-office revenue.
+- Created data visualizations to identify movie performance trends and audience preferences.
+
+### 📊 Data Science Analysis Dashboard | Power BI
+- Developed a Power BI dashboard to explore data and present meaningful insights through interactive visualizations.
+- Applied data analysis and visualization techniques to identify patterns and trends.
+- Used Power BI features to organize and present analytical information clearly.
+- Focused on transforming raw data into useful insights for data-driven decision-making.
+- Demonstrated practical skills in dashboard development, data exploration, and visualization.
+
 ### 📦 Supply Chain Performance & Sales Analytics Dashboard
 - Built an interactive dashboard using **Python, SQL, Power BI, and Excel**.
 - Cleaned, transformed, and analyzed supply chain and sales datasets.
